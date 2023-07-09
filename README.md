@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RonCommits.
-- 👀 I’m interested in  Problem Solving - in particular: Mathematics, Computer Science, and Finance.
-- 🌱 I’m currently a student at the University of Cape Town.
-- 💞️ I’m looking to collaborate on Business and Systems Analysis projects.
+- 👋🏼 Hi, I’m @RonCommits.
+- 🧠 I'm a University of Cape Town (UCT) alumnus.
+- ❤️‍🔥 I’m interested in Problem Solving - I'm a Mathematics, Computer Science, and Finance obsessive.
+- 🥷🏽 I’m a Fixer - tell me where it hurts, and I'll make it go away.
 - 📫 Reach me via email: ronaldmolepo001@gmail.com.
 
 <!---
