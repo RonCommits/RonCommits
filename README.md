@@ -1,6 +1,6 @@
 - 👋🏼 Hi, I’m @RonCommits.
 - 🧠 I'm a University of Cape Town (UCT) alumnus.
-- ❤️‍🔥 I’m interested in Problem Solving - a Mathematics, Computer Science, and Finance obsessive of note.
+- ❤️‍🔥 My love for, and obsession with, Problem Solving knows no bounds.
 - 🥷🏽 I’m a Fixer - tell me where it hurts, and I'll make it go away.
 - 📫 Reach me via email: ronaldmolepo001@gmail.com.
 
